@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "clothing_type": "T-Shirt",
+    "color": "Navy Blue",
+    "brand": "Nike",
+    "image_url": "https://placehold.co/512x512/png",
+    "category": "upper"
+  },
+  {
+    "id": 2,
+    "clothing_type": "Jeans",
+    "color": "Dark Wash",
+    "brand": "Levi's",
+    "image_url": "https://placehold.co/512x512/png",
+    "category": "lower"
+  },
+  {
+    "id": 3,
+    "clothing_type": "Sneakers",
+    "color": "White",
+    "brand": "Adidas",
+    "image_url": "https://placehold.co/512x512/png",
+    "category": "footwear"
+  },
+  {
+    "id": 4,
+    "clothing_type": "Blazer",
+    "color": "Black",
+    "brand": "Zara",
+    "image_url": "https://placehold.co/512x512/png",
+    "category": "outerwear"
+  },
+  {
+    "id": 5,
+    "clothing_type": "Scarf",
+    "color": "Multicolor",
+    "brand": "Gucci",
+    "image_url": "https://placehold.co/512x512/png",
+    "category": "accessories"
+  }
+]

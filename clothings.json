@@ -1,42 +1,227 @@
 [
   {
     "id": 1,
-    "clothing_type": "T-Shirt",
-    "color": "Navy Blue",
-    "brand": "Nike",
-    "image_url": "https://placehold.co/512x512/png",
+    "clothing_type": "Tops",
+    "name": "button-down poplin blouse",
+    "color": "#D5DFF4",
+    "brand": "Stella McCartney",
+    "image_url": "https://assets.vogue.com/photos/67dc551e8c749124b87bcd54/3:4/w_748%2Cc_limit/Essentials%2520Update_Slides%2520(5)_0023_image14.jpg",
     "category": "upper"
   },
   {
     "id": 2,
-    "clothing_type": "Jeans",
-    "color": "Dark Wash",
-    "brand": "Levi's",
-    "image_url": "https://placehold.co/512x512/png",
+    "clothing_type": "Bottoms",
+    "name": "paneled leather maxi skirt",
+    "color": "#432E31",
+    "brand": "St. Agni",
+    "image_url": "https://assets.vogue.com/photos/67dc551a1ea14eee753eb27b/3:4/w_748%2Cc_limit/Essentials%2520Update_Slides%2520(5)_0010_image27.jpg",
     "category": "lower"
   },
   {
     "id": 3,
-    "clothing_type": "Sneakers",
-    "color": "White",
-    "brand": "Adidas",
-    "image_url": "https://placehold.co/512x512/png",
-    "category": "footwear"
+    "clothing_type": "Footwear",
+    "name": "leather penny loafers",
+    "color": "#221814",
+    "brand": "Banana Republic",
+    "image_url": "https://assets.vogue.com/photos/67dc62b9c4b0f41eb417cb82/3:4/w_748%2Cc_limit/Essentials%2520Update_Slides%2520(5)_0032_image5.jpg",
+    "category": "lower"
   },
   {
     "id": 4,
-    "clothing_type": "Blazer",
-    "color": "Black",
-    "brand": "Zara",
-    "image_url": "https://placehold.co/512x512/png",
-    "category": "outerwear"
+    "clothing_type": "Tops",
+    "name": "(Re)generative cotton ribbed crewneck tee",
+    "color": "#ffffff",
+    "brand": "Madewell",
+    "image_url": "https://assets.vogue.com/photos/67dc551ebce0489d02329d23/3:4/w_748%2Cc_limit/Essentials%2520Update_Slides%2520(5)_0022_image15.jpg",
+    "category": "upper"
   },
   {
     "id": 5,
-    "clothing_type": "Scarf",
-    "color": "Multicolor",
-    "brand": "Gucci",
-    "image_url": "https://placehold.co/512x512/png",
+    "clothing_type": "Bottoms",
+    "name": "carpenter denim pants",
+    "color": "#E5DCCB",
+    "brand": "Madewell",
+    "image_url": "https://commerce-pim-assets.conde.digital/f15e792/verso/cn-commerce/global/cdfa0c03-e9fd-415c-a609-1689aeceb68c/w_640,ar_3:4/6399e05e2cc617f05040031bf4fc4798.webp",
+    "category": "lower"
+  },
+  {
+    "id": 6,
+    "clothing_type": "Footwear",
+    "name": "Anatomic ankle boots 55",
+    "color": "#3B261B",
+    "brand": "Lemaire",
+    "image_url": "https://assets.vogue.com/photos/67dc551fe280292d53776a48/3:4/w_748%2Cc_limit/Essentials%2520Update_Slides%2520(5)_0026_image11.jpg",
+    "category": "lower"
+  },
+  {
+    "id": 7,
+    "clothing_type": "Tops",
+    "name": "Marin wool and cashmere-blend cardigan",
+    "color": "#000000",
+    "brand": "La Ligne",
+    "image_url": "https://commerce-pim-assets.conde.digital/844fd88/verso/cn-commerce/global/11d89563-ce40-4ea0-b9bc-5fa7ae3a75ce/w_640,ar_3:4/79368d48242fb3b2d0064e66bf27e25e.webp",
+    "category": "upper"
+  },
+  {
+    "id": 8,
+    "clothing_type": "Tops",
+    "name": "modern rib halter tank top",
+    "color": "#ffffff",
+    "brand": "Gap",
+    "image_url": "https://assets.vogue.com/photos/67dc55218c749124b87bcd56/3:4/w_748%2Cc_limit/Essentials%2520Update_Slides%2520(5)_0033_image4.jpg",
+    "category": "upper"
+  },
+  {
+    "id": 9,
+    "clothing_type": "Underwear",
+    "name": "Fits Everybody lace bralette",
+    "color": "#000000",
+    "brand": "Skims",
+    "image_url": "https://assets.vogue.com/photos/67dc5522fb6811c770741d07/3:4/w_748%2Cc_limit/Essentials%2520Update_Slides%2520(5)_0036_image1.jpg",
+    "category": "upper"
+  },
+  {
+    "id": 10,
+    "clothing_type": "Bottoms",
+    "name": "De Lovie asymmetric satin maxi skirt",
+    "color": "#000000",
+    "brand": "Galvan",
+    "image_url": "https://assets.vogue.com/photos/67dc5520969e29f328b33187/3:4/w_748%2Cc_limit/Essentials%2520Update_Slides%2520(5)_0031_image6.jpg",
+    "category": "lower"
+  },
+  {
+    "id": 11,
+    "clothing_type": "Footwear",
+    "name": "Lara embellished sandals",
+    "color": "#985355",
+    "brand": "Loeffler Randall",
+    "image_url": "https://commerce-pim-assets.conde.digital/e84a8fb/verso/cn-commerce/global/0bfb0616-c6c9-48a3-8ffe-a303c5c7113e/w_640,ar_3:4/231fc79eef16fbce5b2608fe90a4dfed.webp",
+    "category": "lower"
+  },
+  {
+    "id": 12,
+    "clothing_type": "Footwear",
+    "name": "leather ballerina flats",
+    "color": "#000000",
+    "brand": "COS",
+    "image_url": "https://commerce-pim-assets.conde.digital/2e280ba/verso/cn-commerce/global/5f108459-be40-4fa7-a9ee-c76393a4b302/w_640,ar_3:4/229b0e540af1fe57f8d6fa180958e81d.webp",
+    "category": "lower"
+  },
+  {
+    "id": 13,
+    "clothing_type": "Dresses",
+    "name": "Francesca silk minidress",
+    "color": "#000000",
+    "brand": "Heirlome",
+    "image_url": "https://commerce-pim-assets.conde.digital/d48a16e/verso/cn-commerce/global/5011be47-cee4-4306-8965-5ebcf8099e46/w_640,ar_3:4/c909ba447fe0536098657730229c8b62.webp",
+    "category": "upper"
+  },
+  {
+    "id": 14,
+    "clothing_type": "Outerwear",
+    "name": "long frock coat",
+    "color": "#E6D7BB",
+    "brand": "Zara",
+    "image_url": "https://assets.vogue.com/photos/67dc551c1461ba81aa8bb4ea/3:4/w_748%2Cc_limit/Essentials%2520Update_Slides%2520(5)_0015_image22.jpg",
+    "category": "upper"
+  },
+  {
+    "id": 15,
+    "clothing_type": "Bottoms",
+    "name": "90s high-rise loose jeans",
+    "color": "#323D52",
+    "brand": "Re/Done",
+    "image_url": "https://commerce-pim-assets.conde.digital/37dc4aa/verso/cn-commerce/global/ab8123d1-d09c-4fad-b2e5-7ff02e6297eb/w_640,ar_3:4/93b7a4b8fe9ef893838b8c43920e7c00.webp",
+    "category": "lower"
+  },
+  {
+    "id": 16,
+    "clothing_type": "Sportswear",
+    "name": "Zenvy leggings",
+    "color": "#7D655F",
+    "brand": "Nike",
+    "image_url": "https://assets.vogue.com/photos/67dc5518c47446a90eca0bcd/3:4/w_748%2Cc_limit/Essentials%2520Update_Slides%2520(5)_0006_image31.jpg",
+    "category": "lower"
+  },
+  {
+    "id": 17,
+    "clothing_type": "Footwear",
+    "name": "Field General sneakers",
+    "color": "#54372D",
+    "brand": "Nike",
+    "image_url": "https://assets.vogue.com/photos/67dc55184739ade99b09432d/3:4/w_748%2Cc_limit/Essentials%2520Update_Slides%2520(5)_0002_image35.jpg",
+    "category": "lower"
+  },
+  {
+    "id": 18,
+    "clothing_type": "Outerwear",
+    "name": "Mandarin jacket",
+    "color": "#DAD1CB",
+    "brand": "Mango",
+    "image_url": "https://assets.vogue.com/photos/67c9d6e800c4a296fb2dccb8/3:4/w_748%2Cc_limit/1.png",
+    "category": "upper"
+  },
+  {
+    "id": 19,
+    "clothing_type": "Accessories",
+    "name": "channel set diamond ring",
+    "color": "#D8C69F",
+    "brand": "Blue Nile",
+    "image_url": "https://assets.vogue.com/photos/67c9d6ea2f5136bf869b7225/3:4/w_748%2Cc_limit/14.png",
     "category": "accessories"
+  },
+  {
+    "id": 20,
+    "clothing_type": "Tops",
+    "name": "Margaux cashmere sweater",
+    "color": "#ffffff",
+    "brand": "Khaite",
+    "image_url": "https://commerce-pim-assets.conde.digital/2b4cde9/verso/cn-commerce/global/25e04960-8059-46b9-8b79-3a02477180d4/w_640,ar_3:4/8e086213b9d07a175df59560aad55bca.webp",
+    "category": "upper"
+  },
+  {
+    "id": 21,
+    "clothing_type": "Formal Wear",
+    "name": "double-breasted satin-trimmed wool-crepe midi dress",
+    "color": "#DCD9CD",
+    "brand": "WARDROBE.NYC",
+    "image_url": "https://commerce-pim-assets.conde.digital/e2f0e08/verso/cn-commerce/global/e25922f9-7037-4988-b052-54751f6928e9/w_640,ar_3:4/7454e31134cc71765c3530edde189b0c.webp",
+    "category": "upper"
+  },
+  {
+    "id": 22,
+    "clothing_type": "Outerwear",
+    "name": "suede field jacket",
+    "color": "#000000",
+    "brand": "Source Unknown",
+    "image_url": "https://assets.vogue.com/photos/67c9d6ec568c9ae11088eb02/3:4/w_748%2Cc_limit/19.png",
+    "category": "upper"
+  },
+  {
+    "id": 23,
+    "clothing_type": "Formal Wear",
+    "name": "openwork knit dress with fringes",
+    "color": "#000000",
+    "brand": "MANGO",
+    "image_url": "https://commerce-pim-assets.conde.digital/811b20c/verso/cn-commerce/global/f59dabec-e55a-437e-8ee4-aae33c6150ab/w_640,ar_3:4/2171954bd7edb368fcee5e0d75be8a96.webp",
+    "category": "upper"
+  },
+  {
+    "id": 24,
+    "clothing_type": "Formal Wear",
+    "name": "gathered midi dress",
+    "color": "#473534",
+    "brand": "Norma Kamali",
+    "image_url": "https://commerce-pim-assets.conde.digital/4f180f1/verso/cn-commerce/global/ead12528-7cf1-4685-be7c-e1ba864e41b7/w_640,ar_3:4/07ea315c66c6a6e11e3b0fbeddce7aa2.webp",
+    "category": "upper"
+  },
+  {
+    "id": 25,
+    "clothing_type": "Formal Wear",
+    "name": "Larina scoop-neck sleeveless fit & flare mini dress",
+    "color": "#97202F",
+    "brand": "SIMKHAI",
+    "image_url": " https://commerce-pim-assets.conde.digital/56b5c50/verso/cn-commerce/global/cade42d6-c53a-41b1-a96e-c93261215273/w_640,ar_3:4/effe2c7e9601d1822a970ca040e7a800.webp",
+    "category": "upper"
   }
 ]
